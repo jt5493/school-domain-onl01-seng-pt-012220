@@ -11,5 +11,7 @@ class School
 
   def length
 
+  end
+
 
 end
