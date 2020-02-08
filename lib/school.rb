@@ -26,6 +26,7 @@ class School
   def sort
     self.roster.each do |k, v|
       v.sort!
+    end
   end
 
 
