@@ -9,5 +9,7 @@ class School
 
   end
 
+  def length
+
 
 end
